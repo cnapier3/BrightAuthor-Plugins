@@ -64,7 +64,7 @@ End Function
 
 Sub changename(uservariables as Object)
 
-	newname$ ="notset"
+	newname$ ="KC Office"
 	oldname$=" "
 
 	if userVariables.DoesExist("lname") then
